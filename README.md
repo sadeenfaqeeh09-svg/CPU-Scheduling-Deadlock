@@ -27,9 +27,9 @@ It uses:
 ---
 
 ## 📥 Input Example
-0 0 2 CPU{R[1], 5,R[1]} IO{3} CPU{3}
-1 3 1 CPU[R[1],3, F[1],4]
-2 6 2 CPU{4} IO{2} CPU{2}
+- 0 0 2 CPU{R[1], 5,R[1]} IO{3} CPU{3}
+- 1 3 1 CPU[R[1],3, F[1],4]
+- 2 6 2 CPU{4} IO{2} CPU{2}
 
 
 ---
@@ -41,10 +41,10 @@ python main.py
 
 
 ## 📊 Output
-Gantt Chart
-Waiting Time
-Turnaround Time
-Deadlock detection messages
+* Gantt Chart
+* Waiting Time
+* Turnaround Time
+* Deadlock detection messages
 
 
 ---
@@ -52,15 +52,15 @@ Deadlock detection messages
 
 
 ## ⚠️ Deadlock Handling
-Deadlock is detected when processes form a circular dependency
-The system resolves it by terminating one process and freeing resources
+- Deadlock is detected when processes form a circular dependency
+- The system resolves it by terminating one process and freeing resources
 
 
 ---
 
 ## 🖥️ Environment
-OS: Linux (Virtual Machine)
-Language: Python
+- OS: Linux (Virtual Machine)
+- Language: Python
 
 ---
 
