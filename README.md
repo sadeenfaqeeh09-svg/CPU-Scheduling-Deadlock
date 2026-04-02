@@ -66,7 +66,7 @@ Language: Python
 
 ## 📁 Project Structure
 CPU-Scheduling-Deadlock/
-=> main.py
-=> input.txt
-=> report.pdf
-=> README.md
+* main.py
+* input.txt
+* report.pdf
+* README.md
